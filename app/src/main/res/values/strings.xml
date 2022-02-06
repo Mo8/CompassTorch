@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TorchPass</string>
+    <string name="torch_image">torch image</string>
+    <string name="compass_image">compass image</string>
+</resources>
